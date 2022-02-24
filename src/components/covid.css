@@ -1,0 +1,15 @@
+ul{
+    display: flex;
+}
+
+.card{
+    width: 200px;
+    height:200px;
+    background-color: yellow;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 0 5px 12px grey;
+}
+li{
+    list-style-type:none;
+}
